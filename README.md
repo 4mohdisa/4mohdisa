@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/github/followers/4mohdisa?label=Github%20followers&style=for-the-badge" alt="4mohdisa" />
     <img src="https://img.shields.io/github/stars/4mohdisa?label=Github%20stars&style=for-the-badge" alt="4mohdisa" />
     <img  src="https://komarev.com/ghpvc/?username=4mohdisa&label=Profile Views&color=blue&style=for-the-badge" alt="4mohdisa" />
-    <a href="https://www.linkedin.com/in/mohammed-isa-72a34a226/"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/mohammed-isa-72a34a226/" alt="4mohdisa" /> </a>
+    <a href="https://www.linkedin.com/in/mohammed-isa-72a34a226/"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/4mohdisa" alt="4mohdisa" /> </a>
 </div>
 
 Pushing My Limits: Solving Complex Problems and Expanding My Skillset
@@ -69,7 +69,7 @@ Skills: Flutter 20% / Android 20% / iOS 20% / Javascript 45% / Nodejs 45% / UI &
 [mail]: mailto:isaxxcode@gmail.com
 [twitter]: https://twitter.com/btwitsisa
 [youtube]: https://www.youtube.com/IsaXcode
-[linkedin]: https://linkedin.com/in/mohammed-isa-72a34a226/
+[linkedin]: https://linkedin.com/in/4mohdisa/
 [github]: https://github.com/4mohdisa
 [instagram]: https://www.instagram.com/isaxcode
 [facebook]: https://www.facebook.com/mohdisa1234
