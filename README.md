@@ -68,7 +68,7 @@ Show some ❤️ by starring some of the repositories!
 [github]: https://github.com/4mohdisa
 [instagram]: https://www.instagram.com/isaxcode
 [facebook]: https://www.facebook.com/mohdisa1234
-[medium]: https://medium.com/mohdisa233
+[medium]: https://medium.com/@mohdisa233
 [flutter]: https://flutter.dev
 [dart]: https://dart.dev
 [vscode]: https://code.visualstudio.com
