@@ -56,16 +56,6 @@ Skills: Flutter 20% / Android 20% / iOS 20% / Javascript 45% / Nodejs 45% / UI &
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br />
-<br /> 
-
-<div align="center">
-Show some ❤️ by starring some of the repositories!
-<br />
-<br />
-<img align="center" src = "https://profile-counter.glitch.me/muhammadtalhasultan/count.svg" alt ="Loading...">
-</div>
-
-<br />
 <br />
 
  <h1>👨‍💻 Isa's Coding Journey</h1>
