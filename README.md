@@ -56,11 +56,10 @@ Skills: Flutter 20% / Android 20% / iOS 20% / Javascript 45% / Nodejs 45% / UI &
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br />
-<br />
 
  <h1>👨‍💻 Isa's Coding Journey</h1>
 Mohammed Isa, web developer with a passion for exploring new technologies. Completed 12th standard at Mahesh Public School, discovered tech through mobile repairing course in hometown.
-
+<br />
 
 Pursued web development at Virtual Heights, learned HTML, CSS, JavaScript, and MERN stack. Worked on e-commerce, NFT, API, and AI projects, built a chat AI using ChatGPT API.
 
