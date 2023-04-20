@@ -67,8 +67,8 @@ Show some ❤️ by starring some of the repositories!
 [linkedin]: https://linkedin.com/in/mohammed-isa-72a34a226/
 [github]: https://github.com/4mohdisa
 [instagram]: https://www.instagram.com/isaxcode
-[facebook]: https://www.facebook.com/Mohammad Isa Ansari
-[medium]: https://medium.com/@mohdisa233
+[facebook]: https://www.facebook.com/mohdisa1234
+[medium]: https://medium.com/mohdisa233
 [flutter]: https://flutter.dev
 [dart]: https://dart.dev
 [vscode]: https://code.visualstudio.com
