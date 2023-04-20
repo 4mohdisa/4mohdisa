@@ -51,6 +51,7 @@ Skills: Flutter 20% / Android 20% / iOS 20% / Javascript 45% / Nodejs 45% / UI &
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <br />
+<br />
 
  <h1>👨‍💻 Isa's Coding Journey</h1>
  <div>
