@@ -40,6 +40,15 @@ Skills: Flutter 20% / Android 20% / iOS 20% / Javascript 45% / Nodejs 45% / UI &
 [<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][firebase]
 [<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][dart]
 [<img align="left" alt=“VSCode” width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />][vscode]
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <br />
 
@@ -56,6 +65,18 @@ Show some ❤️ by starring some of the repositories!
 <img align="center" src = "https://profile-counter.glitch.me/muhammadtalhasultan/count.svg" alt ="Loading...">
 </div>
 
+<br />
+<br />
+
+ <h1>👨‍💻 Isa's Coding Journey</h1>
+Mohammed Isa, web developer with a passion for exploring new technologies. Completed 12th standard at Mahesh Public School, discovered tech through mobile repairing course in hometown.
+
+Pursued web development at Virtual Heights, learned HTML, CSS, JavaScript, and MERN stack. Worked on e-commerce, NFT, API, and AI projects, built a chat AI using ChatGPT API.
+
+Currently a full-time web developer and product manager at StepSharp. Creating innovative solutions for clients while exploring mobile application development to stay up-to-date.
+
+Passionate about problem-solving and committed to quality. Always seeking new challenges and opportunities to learn and grow. Let's connect and build something amazing together!
+    
 <br />
 <br />
 
