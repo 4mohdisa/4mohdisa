@@ -72,7 +72,7 @@ Skills: Flutter 20% / Android 20% / iOS 20% / Javascript 45% / Nodejs 45% / UI &
 [linkedin]: https://linkedin.com/in/4mohdisa/
 [github]: https://github.com/4mohdisa
 [instagram]: https://www.instagram.com/isaxcode
-[facebook]: https://www.facebook.com/mohdisa1234
+[facebook]: https://www.facebook.com/4mohdisa
 [medium]: https://medium.com/@mohdisa233
 [flutter]: https://flutter.dev
 [dart]: https://dart.dev
