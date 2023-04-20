@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/github/followers/4mohdisa?label=Github%20followers&style=for-the-badge" alt="4mohdisa" />
     <img src="https://img.shields.io/github/stars/4mohdisa?label=Github%20stars&style=for-the-badge" alt="4mohdisa" />
     <img  src="https://komarev.com/ghpvc/?username=4mohdisa&label=Profile Views&color=blue&style=for-the-badge" alt="4mohdisa" />
-    <a href="https://www.linkedin.com/in/4mohdisa/"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/Mohammed Isa/" alt="4mohdisa" /> </a>
+    <a href="https://www.linkedin.com/in/4mohdisa/"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/Isa/" alt="4mohdisa" /> </a>
 </div>
 
 Every great developer you know got there by solving problems they were unqualified to solve until they actually did it
