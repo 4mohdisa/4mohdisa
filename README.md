@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi 👋, I'm <a href="https://isaxcode.vercel.app">Muhammad Isa</a></h1>
+<h1 align="center"> Hi 👋, I'm <a href="https://isaxcode.vercel.app">Mohammed Isa</a></h1>
 <h3 align="center">Collaborative developer with a growth mindset in mobile and web.</h3>
 
 <div class="row">
