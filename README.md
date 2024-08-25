@@ -26,8 +26,6 @@ Skills: Flutter / Android / iOS / Javascript / Nodejs / UI & UX / Figma / Web De
 [<img align="left" alt="Mohammed Isa | YouTube" width="28px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][youtube]
 [<img align="left" alt="Mohammed Isa | Twitter" width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
 [<img align="left" alt="Mohammed Isa | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
-[<img align="left" alt="Mohammed Isa | Instagram" width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />][instagram]
-[<img align="left" alt="Mohammed Isa | Facebook" width="28px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />][facebook]
 [<img align="left" alt="Mohammed Isa | Medium" width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
 [<img align="left" alt="Mohammed Isa | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" />][whatsapp]
 
@@ -53,16 +51,6 @@ Skills: Flutter / Android / iOS / Javascript / Nodejs / UI & UX / Figma / Web De
 <br />
 <br />
 
- <h1>👨‍💻 Isa's Coding Journey</h1>
- <div>
-<p>Mohammed Isa, web developer with a passion for exploring new technologies. Completed 12th standard at Mahesh Public School, discovered tech through mobile repairing course in hometown.<p/>
-<p>Pursued web development at Virtual Heights, learned HTML, CSS, JavaScript, and MERN stack. Worked on e-commerce, NFT, API, and AI projects, built a chat AI using ChatGPT API.<p/>
-<p>Currently a full-time web developer and product manager at StepSharp. Creating innovative solutions for clients while exploring mobile application development to stay up-to-date.<p/>
-<p>Passionate about problem-solving and committed to quality. Always seeking new challenges and opportunities to learn and grow. Let's connect and build something amazing together! <p/>
- <div/>
-
-<br />
-<br />
 
 [website]: https://isaxcode.com
 [whatsapp]: https://wa.me/+61450106807
