@@ -1,11 +1,10 @@
-
 <h1 align="center"> Hi 👋, I'm <a href="https://isaxcode.vercel.app">Mohammed Isa</a></h1>
 <h3 align="center">Collaborative developer with a growth mindset in mobile and web.</h3>
 
 <div class="row">
     <img src="https://img.shields.io/github/followers/4mohdisa?label=Github%20followers&style=for-the-badge" alt="4mohdisa" />
     <img src="https://img.shields.io/github/stars/4mohdisa?label=Github%20stars&style=for-the-badge" alt="4mohdisa" />
-    <img  src="https://komarev.com/ghpvc/?username=4mohdisa&label=Profile%20Views&color=blue&style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=4mohdisa&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
     <a href="https://www.linkedin.com/in/mohammed-isa-72a34a226/"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/4mohdisa" alt="4mohdisa" /> </a>
 </div>
 
@@ -27,7 +26,7 @@ Skills: Flutter / Android / iOS / Javascript / Nodejs / UI & UX / Figma / Web De
 [<img align="left" alt="Mohammed Isa | Twitter" width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
 [<img align="left" alt="Mohammed Isa | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
 [<img align="left" alt="Mohammed Isa | Medium" width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
-[<img align="left" alt="Mohammed Isa | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" />][whatsapp]
+[<img align="left" alt="Mohammed Isa | WhatsApp" width="28px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" />][whatsapp]
 
 <br />
 <br />
@@ -55,8 +54,11 @@ Skills: Flutter / Android / iOS / Javascript / Nodejs / UI & UX / Figma / Web De
 
 <div align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4mohdisa" alt="4mohdisa" /></a>
-   
 </div>
+
+<br />
+
+### GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=4mohdisa&show_icons=true&locale=en&layout=compact" alt="4mohdisa" /></p>
 
@@ -64,7 +66,7 @@ Skills: Flutter / Android / iOS / Javascript / Nodejs / UI & UX / Figma / Web De
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4mohdisa&" alt="4mohdisa" /></p>
 
-
+<br />
 
 [website]: https://isaxcode.com
 [whatsapp]: https://wa.me/+61450106807
