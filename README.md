@@ -51,6 +51,14 @@ Skills: Flutter / Android / iOS / Javascript / Nodejs / UI & UX / Figma / Web De
 <br />
 <br />
 
+### GitHub Badges
+
+<div align="center">
+    <img src="https://img.shields.io/github/followers/4mohdisa?label=Followers&style=social" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/stars/4mohdisa?label=GitHub%20Stars&style=social" alt="GitHub stars" />
+    <img src="https://komarev.com/ghpvc/?username=4mohdisa&label=Profile%20Views&color=blue" alt="Profile Views" />
+</div>
+
 
 [website]: https://isaxcode.com
 [whatsapp]: https://wa.me/+61450106807
