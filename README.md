@@ -53,7 +53,7 @@ Skills: Flutter / Android / iOS / Javascript / Nodejs / UI & UX / Figma / Web De
 ### GitHub Achievements
 
 <div align="center">
-	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4mohdisa" alt="4mohdisa" /></a>
+	 <img src="https://github-profile-trophy.vercel.app/?username=4mohdisa&theme=onedark&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Achievements" />
 </div>
 
 <br />
