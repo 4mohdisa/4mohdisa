@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://isaxcode.vercel.app">Mohammed Isa</a></h1>
 <h3 align="center">Collaborative developer with a growth mindset in mobile and web.</h3>
 
-<div class="row">
+<div class="row" align="center">
     <img src="https://img.shields.io/github/followers/4mohdisa?label=Github%20followers&style=for-the-badge" alt="4mohdisa" />
     <img src="https://img.shields.io/github/stars/4mohdisa?label=Github%20stars&style=for-the-badge" alt="4mohdisa" />
     <img src="https://komarev.com/ghpvc/?username=4mohdisa&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
