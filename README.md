@@ -58,17 +58,7 @@ Skills: Flutter / Android / iOS / Javascript / Nodejs / UI & UX / Figma / Web De
 
 <br />
 
-### GitHub Stats
-
-<p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=4mohdisa&show_icons=true&locale=en&layout=compact" alt="4mohdisa" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=4mohdisa&show_icons=true&locale=en" alt="4mohdisa" />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4mohdisa&" alt="4mohdisa" />
-</p>
-
-## Stats📈
+## Stats 📈
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=4mohdisa&show_icons=true&theme=highcontrast&title_color=ff8000&text_color=ffffff&bg_color=1E1E1E&locale=en&layout=compact&hide_border=true" alt="4mohdisa" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=4mohdisa&show_icons=true&theme=highcontrast&title_color=ff8000&text_color=ffffff&bg_color=1E1E1E&locale=en&hide_border=true" alt="4mohdisa" />
