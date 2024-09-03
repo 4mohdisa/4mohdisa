@@ -60,17 +60,19 @@ Skills: Flutter / Android / iOS / Javascript / Nodejs / UI & UX / Figma / Web De
 
 ### GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=4mohdisa&show_icons=true&locale=en&layout=compact" alt="4mohdisa" /></p>
+<p align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=4mohdisa&show_icons=true&locale=en&layout=compact" alt="4mohdisa" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4mohdisa&show_icons=true&locale=en" alt="4mohdisa" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=4mohdisa&show_icons=true&locale=en" alt="4mohdisa" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4mohdisa&" alt="4mohdisa" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4mohdisa&" alt="4mohdisa" />
+</p>
 
 ## Stats📈
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=#4mohdisa&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="4mohdisa" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=#4mohdisa&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="4mohdisa" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=#4mohdisa&theme=highcontrast&hide_border=true" alt="4mohdisa" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=4mohdisa&show_icons=true&theme=highcontrast&title_color=ff8000&text_color=ffffff&bg_color=0000&locale=en&layout=compact&hide_border=true" alt="4mohdisa" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=4mohdisa&show_icons=true&theme=highcontrast&title_color=ff8000&text_color=ffffff&bg_color=0000&locale=en&hide_border=true" alt="4mohdisa" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=4mohdisa&theme=highcontrast&hide_border=true" alt="4mohdisa" />
 </p>
 
 <br />
