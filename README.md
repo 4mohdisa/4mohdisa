@@ -23,28 +23,6 @@ Building is the only thing I'm good at. I specialize in architecting scalable sy
 - 🚀 &ensp; Experience scaling micro-services to thousands of workflows and users
 - 💡 &ensp; Strong focus on solving complex problems through innovative technical solutions
 
-## Featured Projects
-
-### 🔄 **convex-s3-universal** - Universal Cloud Storage Adapter
-Universal S3 storage adapter for Convex apps - seamlessly switch between Cloudflare R2, AWS S3, Google Cloud Storage, and MinIO with just environment variables. Zero vendor lock-in.
-
-### 🤖 **AI-Powered Applications**
-- **AI-Chatbot-App** - Flutter chatbot with image generation capabilities
-- **Arabic-OCR-Website** - 95%+ accuracy Arabic text recognition using CV and LLMs
-- **DashGen** - AI dashboard generator that transforms raw data into interactive visualizations
-- **TextExtraction-GoogleSheets** - OCR to Google Sheets automation tool
-
-### 🏗️ **Full-Stack Platforms**
-- **NextJ-SaaS-ShipFast** - Complete SaaS boilerplate with Next.js, Convex, and Clerk
-- **Vibes** - Real-time MERN chat application with Socket.IO
-- **Ledgerly** - Smart expense management with AI categorization
-- **Real-Estate-Sales-Dashboard-Pro** - Enterprise PropTech analytics platform
-
-### 🛠️ **Developer Tools & Automation**
-- **Nexlify** - Web page to Markdown documentation generator
-- **Hire-Sync-AI** - AI-powered recruitment platform
-- **chatgpt-whatsapp-bot** - WhatsApp integration for GPT APIs
-
 ### Connect With Me
 
 [<img align="left" alt="Mohammed Isa | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
