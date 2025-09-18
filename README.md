@@ -31,7 +31,6 @@ Building is the only thing I'm good at. I specialize in architecting scalable sy
 [<img align="left" alt="Mohammed Isa | Twitter" width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
 [<img align="left" alt="Mohammed Isa | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
 [<img align="left" alt="Mohammed Isa | Medium" width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
-[<img align="left" alt="Mohammed Isa | WhatsApp" width="28px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" />][whatsapp]
 
 <br />
 <br />
