@@ -56,9 +56,9 @@ Building is the only thing I'm good at. I specialize in architecting scalable sy
 
 ## Stats 📈
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=4mohdisa&show_icons=true&theme=highcontrast&title_color=ff8000&text_color=ffffff&bg_color=111111&locale=en&layout=compact&hide_border=true" alt="4mohdisa" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=4mohdisa&show_icons=true&theme=highcontrast&title_color=ff8000&text_color=ffffff&bg_color=111111&locale=en&hide_border=true" alt="4mohdisa" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=4mohdisa&theme=highcontrast&bg_color=111111&hide_border=true" alt="4mohdisa" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4mohdisa&show_icons=true&theme=radical&title_color=ff8000&text_color=ffffff&bg_color=0d1117&locale=en&layout=compact&hide_border=true" alt="4mohdisa" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=4mohdisa&show_icons=true&theme=radical&title_color=ff8000&text_color=ffffff&bg_color=0d1117&locale=en&hide_border=true" alt="4mohdisa" />
+<img width="48%" src="https://streak-stats.demolab.com/?user=4mohdisa&theme=radical&background=0d1117&hide_border=true" alt="4mohdisa" />
 </p>
 
 <br />
