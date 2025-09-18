@@ -1,6 +1,6 @@
 [<img src="https://res.cloudinary.com/dqfubcyuh/image/upload/v1726397762/github_banner_2_fjtyju.png"/>][website]
-<h1 align="center"> Hi 👋, I'm <a href="https://isaxcode.vercel.app">Mohammed Isa</a></h1>
-<h3 align="center">Collaborative developer with a growth mindset in mobile and web.</h3>
+<h1 align="center"> Hi 👋, I'm <a href="https://isaxcode.com">Mohammed Isa</a></h1>
+<h3 align="center">Full-Stack Engineer specializing in AI/ML integration and scalable cloud architecture.</h3>
 
 <div class="row" align="center">
     <img src="https://img.shields.io/github/followers/4mohdisa?label=Github%20followers&style=for-the-badge" alt="4mohdisa" />
@@ -9,15 +9,41 @@
     <a href="https://www.linkedin.com/in/mohammed-isa-72a34a226/"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/4mohdisa" alt="4mohdisa" /> </a>
 </div>
 
-Pushing My Limits: Solving Complex Problems and Expanding My Skillset
+## About Me
 
-Skills: Flutter / Android / iOS / Javascript / Nodejs / UI & UX / Figma / Web Development / Database / Bug Fixing, Unit Testing.
+Building is the only thing I'm good at. I specialize in architecting scalable systems from 0→1 and 1→100, with expertise spanning the entire stack - from robust backend systems to AI-powered frontends that scale to thousands of users.
 
-- 🔭 &ensp; Currently developing full-stack web applications using the MERN stack
-- 🌱 &ensp; Constantly learning new technologies and expanding my skillset
-- ⚡ &ensp;  Fun fact: I enjoy solving complex algorithmic challenges in my free time
-- 🗿 &ensp;  Early adopter of React and Node.js, with over 2 years of experience
-- 💡 &ensp; Strong problem-solving skills honed by tackling challenging projects
+**Core Technologies:** TypeScript, Python, React, Next.js, Node.js, Flutter, AI/ML APIs  
+**Cloud & Infrastructure:** AWS, GCP, Cloudflare R2, Convex, MongoDB, Docker  
+**AI & Data:** Computer Vision, NLP, OCR, TensorFlow, OpenAI APIs, Data Processing Pipelines
+
+- 🔭 &ensp; Currently architecting universal S3 storage solutions and leading PropTech development teams
+- 🤖 &ensp; Built AI-powered applications including chatbots, OCR systems, and dashboard generators
+- ⚡ &ensp; Shipped 50+ projects ranging from real-time chat apps to enterprise automation tools
+- 🚀 &ensp; Experience scaling micro-services to thousands of workflows and users
+- 💡 &ensp; Strong focus on solving complex problems through innovative technical solutions
+
+## Featured Projects
+
+### 🔄 **convex-s3-universal** - Universal Cloud Storage Adapter
+Universal S3 storage adapter for Convex apps - seamlessly switch between Cloudflare R2, AWS S3, Google Cloud Storage, and MinIO with just environment variables. Zero vendor lock-in.
+
+### 🤖 **AI-Powered Applications**
+- **AI-Chatbot-App** - Flutter chatbot with image generation capabilities
+- **Arabic-OCR-Website** - 95%+ accuracy Arabic text recognition using CV and LLMs
+- **DashGen** - AI dashboard generator that transforms raw data into interactive visualizations
+- **TextExtraction-GoogleSheets** - OCR to Google Sheets automation tool
+
+### 🏗️ **Full-Stack Platforms**
+- **NextJ-SaaS-ShipFast** - Complete SaaS boilerplate with Next.js, Convex, and Clerk
+- **Vibes** - Real-time MERN chat application with Socket.IO
+- **Ledgerly** - Smart expense management with AI categorization
+- **Real-Estate-Sales-Dashboard-Pro** - Enterprise PropTech analytics platform
+
+### 🛠️ **Developer Tools & Automation**
+- **Nexlify** - Web page to Markdown documentation generator
+- **Hire-Sync-AI** - AI-powered recruitment platform
+- **chatgpt-whatsapp-bot** - WhatsApp integration for GPT APIs
 
 ### Connect With Me
 
@@ -32,23 +58,15 @@ Skills: Flutter / Android / iOS / Javascript / Nodejs / UI & UX / Figma / Web De
 <br />
 <br />
 
-### Languages and Tools
+### Tech Stack
 
-[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][flutter]
-[<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][firebase]
-[<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][dart]
-[<img align="left" alt=“VSCode” width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />][vscode]
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+**Languages:** TypeScript • Python • JavaScript • Dart • SQL  
+**Frontend:** React • Next.js • Flutter • HTML • CSS • Tailwind CSS  
+**Backend:** Node.js • Express.js • Python FastAPI • GraphQL  
+**AI/ML:** TensorFlow • OpenCV • OpenAI APIs • Computer Vision • NLP  
+**Cloud & Database:** MongoDB • Firebase • Convex • Clerk • AWS • GCP • Cloudflare R2  
+**DevOps & Tools:** Docker • Git • GitHub • VS Code • Vercel
 
-<br />
 <br />
 
 ### GitHub Achievements
