@@ -65,14 +65,9 @@ Building is the only thing I'm good at. I specialize in architecting scalable sy
 <br />
 
 [website]: https://isaxcode.com
-[whatsapp]: https://wa.me/+61450106807
 [mail]: mailto:isaxxcode@gmail.com
 [twitter]: https://twitter.com/4mohdisa
 [youtube]: https://www.youtube.com/IsaXcode
 [linkedin]: https://linkedin.com/in/4mohdisa/
 [github]: https://github.com/4mohdisa
 [medium]: https://medium.com/@mohdisa233
-[flutter]: https://flutter.dev
-[dart]: https://dart.dev
-[vscode]: https://code.visualstudio.com
-[firebase]: https://firebase.google.com
