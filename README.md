@@ -1,5 +1,3 @@
-[<img src="https://res.cloudinary.com/dqfubcyuh/image/upload/v1726397762/github_banner_2_fjtyju.png" alt="Mohammed Isa" />][website]
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg" />
