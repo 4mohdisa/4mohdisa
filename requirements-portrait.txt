@@ -1,0 +1,4 @@
+# only needed locally, when you regenerate the ASCII portrait
+Pillow>=10.0.0
+numpy>=1.26.0
+opencv-python-headless>=4.9.0
